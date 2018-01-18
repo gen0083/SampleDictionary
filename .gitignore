@@ -5,4 +5,5 @@
 /build
 /captures
 .externalNativeBuild
-.idea/*.xml
+.idea/**/*.xml
+!.idea/dictionaries/project.dic
